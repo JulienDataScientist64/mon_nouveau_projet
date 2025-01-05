@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/test/mlruns/0/2793b11ae60d42159cbac684f11f2261/artifacts
+end_time: 1736073044225
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2793b11ae60d42159cbac684f11f2261
+run_name: inquisitive-deer-984
+run_uuid: 2793b11ae60d42159cbac684f11f2261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736073034876
+status: 3
+tags: []
+user_id: root
