@@ -9,3 +9,4 @@ Clone le dépôt et installe les dépendances :
 git clone git@github.com:JulienDataScientist64/test.git
 cd test
 pip install -r requirements.txt
+# sentiment_analysis
