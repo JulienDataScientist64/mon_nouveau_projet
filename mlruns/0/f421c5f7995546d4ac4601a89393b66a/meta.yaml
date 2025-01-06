@@ -1,0 +1,15 @@
+artifact_uri: file:///content/drive/MyDrive/test/mlruns/0/f421c5f7995546d4ac4601a89393b66a/artifacts
+end_time: 1736077486792
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f421c5f7995546d4ac4601a89393b66a
+run_name: likeable-boar-613
+run_uuid: f421c5f7995546d4ac4601a89393b66a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736077479508
+status: 3
+tags: []
+user_id: root
